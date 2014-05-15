@@ -33,13 +33,13 @@ the aliases can be used as-is.
 ## Example Usage
 
     $ cd /var/www/
-    $ s webfolder
+    $ <command_prefix>s webfolder
     $ cd /usr/local/lib/
-    $ s locallib
-    $ l
-    $ g web<tab>
-    $ g webfolder
+    $ <command_prefix>s locallib
+    $ <command_prefix>l
+    $ <command_prefix>g web<tab>
+    $ <command_prefix>g webfolder
 
-## Where Bashmarks are stored
+## Storage
     
 All of your directory bookmarks are saved in a file called ".sdirs" in your HOME directory.
