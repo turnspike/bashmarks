@@ -1,4 +1,7 @@
-### Bashmarks is a shell script that allows you to save and jump to commonly used directories. Now supports tab completion.
+## Purpose
+
+This fork of [bashmarks](https://github.com/huyng/bashmarks "bashmarks") adds several key enhancements and aims to be an
+active and up-to-date replacement for the original (which appears to no longer be maintained).
 
 ## Install
 

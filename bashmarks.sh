@@ -120,7 +120,7 @@ alias ${BASHMARKS_PREFIX}l=bashmarks_l
 # list bookmarks without dirname
 function bashmarks__l {
     source $SDIRS
-    env | grep "^DIR_" | cut -c5- | sort | grep "^.*=" | cut -f1 -d "=" 
+    env | grep --color=never "^DIR_" | cut -c5- | sort | grep --color=never "^.*=" | cut -f1 -d "="
 }
 alias ${BASHMARKS_PREFIX}_l=bashmarks__l
 
