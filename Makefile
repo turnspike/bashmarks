@@ -17,3 +17,5 @@ install:
 	@echo '<command_prefix>p <bookmark_name> - Prints the directory associated with "bookmark_name"'
 	@echo '<command_prefix>d <bookmark_name> - Deletes the bookmark'
 	@echo '<command_prefix>l                 - Lists all available bookmarks'
+
+.PHONY: all install

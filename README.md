@@ -21,6 +21,10 @@ export BASHMARKS_PREFIX="bm"
 
 If this is specified, the prefix must be used before any Bashmarks command; if it is not specified,
 the aliases can be used as-is.
+=======
+2. cd bashmarks
+3. make install
+4. source **~/.local/bin/bashmarks.sh** from within your **~.bash\_profile** or **~/.bashrc** file
 
 ## Shell Commands
 
