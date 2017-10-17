@@ -1,6 +1,6 @@
 ## Purpose
 
-This fork is to keep [huyng/bashmarks](https://github.com/huyng/bashmarks "bashmarks") synchronized with [bachya/bashmarks](https://github.com/bachya/bashmarks). Bachya/bashmarks adds several enhancements, most importantly allowing a prefix to be set for the bookmarking shell commands - eg upstream will conflict with the shell alias "l" in Ubuntu, so we can now prefix the bashmarks command as "bl".
+This fork is to keep [huyng/bashmarks](https://github.com/huyng/bashmarks "bashmarks") synchronized with [bachya/bashmarks](https://github.com/bachya/bashmarks). Bachya/bashmarks adds several enhancements, most importantly allowing a prefix to be set for bashmark shell commands - eg upstream will conflict with the shell alias "l" in Ubuntu, so we can now prefix the bashmarks command as "bl".
 
 ## Install
 
