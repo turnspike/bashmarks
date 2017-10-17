@@ -4,7 +4,7 @@ This fork is to keep [huyng/bashmarks](https://github.com/huyng/bashmarks "bashm
 
 ## Install
 
-1. git clone git://github.com/huyng/bashmarks.git
+1. git clone git://github.com/turnspike/bashmarks.git
 2. make install
 3. add optional [command prefix](#command-prefix)
 4. source **~/.local/bin/bashmarks.sh** from within your **~.bash\_profile** or **~/.bashrc** file
